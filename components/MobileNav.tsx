@@ -71,7 +71,7 @@ return(
                         USERDATA
                         </nav>
                     </SheetClose>
-                    {/* <Footer user={user} type ="mobile"/> */}
+                    <Footer user={user} type ="mobile"/>
                 </div>
                 
                     

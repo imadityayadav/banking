@@ -18,12 +18,12 @@ import {
 } from "@/components/ui/form"
 import { Input } from "@/components/ui/input"
 import { Loader2 } from 'lucide-react';
-import CustomInput from './Custominput'
+import CustomInput from './CustomInput'
 import { authFormSchema } from '@/lib/utils';
 import { useRouter } from 'next/navigation'
 import { getLoggedInUser, signUp } from '@/lib/actions/user.actions'
 import { signIn } from '@/lib/actions/user.actions'
-import PlaidLink from './plaidLink'
+import PlaidLink from './PlaidLink'
 import { PasswordHash } from 'node-appwrite'
 
 

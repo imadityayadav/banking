@@ -41,7 +41,7 @@ const MobileNav = ({ user }: MobileNavProps) => {
                 alt="HorizonLogo"
                 
                 />
-                <h1 className="text-25 font-ibm-plex-serif font-bold text-black-1">Horizon</h1>
+                <h1 className="text-25 font-ibm-plex-serif font-bold text-black-1">VaultPay</h1>
                 </Link>
 
                 <div className="mobilenav-sheet">

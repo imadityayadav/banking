@@ -1,4 +1,4 @@
-# Stage 1: Build the application
+# Build the application
 FROM node:22 AS builder
 
 # Set the working directory

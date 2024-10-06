@@ -28,8 +28,20 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Docker
+To run this application using Docker, follow these steps:
 
-H
+1. **Build the Docker image:**
+
+    ```bash
+    docker build -t banking-app .
+    ```
+
+2. **Run the Docker container:**
+
+    ```bash
+    docker run -p 3000:3000 banking-app
+    ```
 
 ## Deploy on Vercel
 
